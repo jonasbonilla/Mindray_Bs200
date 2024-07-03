@@ -1,4 +1,4 @@
-# **OBTENER RESULTADOS DE ANÁLISIS DE LABORATORIO - Mindray Bs200**
+# **OBTENER RESULTADOS DE ANÁLISIS - Mindray Bs200**
 
 ![Mindray Bs200](https://medtestdx.com/wp-content/uploads/2019/05/BS200-Software.jpg)
 
@@ -62,5 +62,5 @@ private void tcpServer1_OnDataAvailable(tcpServer.TcpServerConnection connection
 ```
 
 ## **FUNCIONAMIENTO**
-Básicamente, funciona como un servidor, se conecta al equipo seleccionado Bs200, Bs300, obtiene los resultados del análisis especificado y almacena los datos en una BD para ser tomados por otro sistema. 
-Es un intermediario en el srvidor, puesto que el sistema de destino es una aplicación web.
+Básicamente, funciona como un servidor, se conecta al equipo seleccionado Bs200, obtiene los resultados del análisis especificado y almacena los datos en una BD para ser tomados por otro sistema. 
+Es un intermediario en el servidor, puesto que el sistema de destino es una aplicación web.
