@@ -1,6 +1,6 @@
 # **OBTENER RESULTADOS DE ANÁLISIS - Mindray Bs200**
 
-![Mindray Bs200](https://medtestdx.com/wp-content/uploads/2019/05/BS200-Software.jpg)
+![MINDRAY BS-200E](https://labomedintl.com/WebRoot/StoreES2/Shops/ed1661/5ED3/B624/1A29/A43B/4ECD/52DF/D016/9361/LM-1101-200E_ml.jpg)
 
 ***Esta app se hizo para obtener resultados de los análisis de laboratorio realizados por un equipo Mindray Bs200 que luego serán usadas en otro sistema.***
 **Nota:** Es mi primer aporte en GitHub.
